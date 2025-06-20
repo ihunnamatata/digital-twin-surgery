@@ -1,5 +1,5 @@
 # digital-twin-surgery
-# Digital Twin – Brain Perfusion & Ischemia Simulator
+# Digital Twin - Brain Perfusion & Ischemia Simulator
 
 This project is part of a PhD dissertation focused on building digital twins of human organ systems. The brain model simulates perfusion, oxygen saturation, and tissue viability — predicting ischemia progression and the potential for brain death.
 

@@ -1,0 +1,11 @@
+Region,PerfusionRate,OxygenSaturation,TissueViabilityScore
+R1,55,92,0.9
+R2,42,85,0.7
+R3,30,76,0.4
+R4,80,97,1.0
+R5,90,99,1.0
+R6,25,70,0.3
+R7,50,88,0.85
+R8,35,81,0.5
+R9,60,93,0.95
+R10,20,65,0.2

@@ -82,6 +82,16 @@ Research goals include:
 - High-performance computing across organ systems
 
 ---
+Framework Expansion (including physical modeling):
+Add AI model (e.g., predict viability score)
+scikit-learn or Keras
+Add PINN/FEM simulation
+DeepXDE, FEniCS, OpenFOAM integration
+Add dynamic dashboard front-end
+Plotly, Streamlit Cloud, Panel
+Add patient-specific variables
+Simulated medical imaging or EHR-style features
+
 
 ## Author
 **Ihunna Amugo**  
